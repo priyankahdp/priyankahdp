@@ -2,8 +2,7 @@
 
 
 
-Priyanka Kulathilake | Profile
-Priyanka K. is a Software Engineer specializing in software development with Java, WSO2 technologies, having for the past ten+ years worked professionally for various companies in this field.
+Priyanka Kulathilake is a Software Engineer specializing in software development with Java, WSO2 technologies, having for the past ten+ years worked professionally for various companies in this field.
 
 Priyanka K.'s main expertise is design and implementation of Backend systems, resulting in a high quality and maintainable code base with attributes such as: code readability, modularity, low coupling, testability, optimized resource usage, robustness, and right level of clear documentation.
 
